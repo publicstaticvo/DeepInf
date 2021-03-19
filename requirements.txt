@@ -1,4 +1,4 @@
 torch
 sklearn
 tensorboard_logger
-
+jgraph
