@@ -1,0 +1,3 @@
+GCN test_loss: 0.4891 AUC: 0.7509 Prec: 0.4528 Rec: 0.6135 F1: 0.5211
+best threshold=-1.192959, f1=0.5258
+
